@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# media folders
+/input_media
+/audio_chunk
+
+# editors
+.idea/
+
+# env vars
+.env

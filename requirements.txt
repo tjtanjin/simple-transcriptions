@@ -1,0 +1,12 @@
+aiohttp==3.9.2
+health_ping==1.0.1
+i18nice==0.6.2
+moviepy==1.0.3
+Pillow==10.2.0
+protobuf==4.25.3
+pydub==0.25.1
+pytesseract==0.3.10
+python-dotenv==1.0.1
+python-telegram-bot==20.8
+SpeechRecognition==3.10.1
+google-generativeai==0.4.0

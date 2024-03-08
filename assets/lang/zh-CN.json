@@ -1,0 +1,36 @@
+{
+    "zh-CN": {
+        "start.message": "您好！将您的媒体上传到这里开始转录！（支持视频、图片和录音转录）。",
+
+        "help.header": "以下是当前可用的转录类型：",
+        "help.footer": "上传视频、图像或录音，立即开始您的文件转录！对这个迷你项目有想法和建议吗？前往项目存储库 (https://github.com/tjtanjin/simple-transcriptions)！",
+
+        "transcription.in_progress": "正在转录 %input_type% 文件",
+        "transcription.complete": "转录完成。正在检索内容...",
+        "transcription.invalid": "内容已过期，请重新上传文件。",
+        "transcription.no_text_found": "查无内容。",
+
+        "gemini.in_progress": "处理中",
+        "gemini.no_api_key": "功能不可用，未设置 API 密钥。",
+
+        "interaction.not_allowed": "您有待处理的操作，请稍候！",
+        "interaction.file_not_supported": "上传了不支持的文件。执行 /help 查看支持的文件格式。",
+        "interaction.file_not_found": "查无此文件，请重新上传。",
+        "interaction.file_too_large": "文件太大，不能超过20mb！",
+        "interaction.prompt_provide_custom_instruction": "请提供您的指示：",
+        "interaction.retrieving_gemini_results": "处理中 |",
+
+        "image.detected": "检测到图像文件。正在准备文件...",
+        "image.advise": "您将图像作为照片发送。如果遇到转录问题，请尝试将图像作为文件发送。",
+
+        "video.detected": "检测到视频文件，正在准备文件...",
+
+        "audio.detected": "检测到录音。正在准备文件...",
+
+        "misc.error": "操作失败，请检查您的媒体类型。如果您认为这是一个错误，请在我们的<a href='https://github.com/tjtanjin/simple-transcriptions'>项目存储库</a>中提出问题！",
+        "misc.input": "输入",
+        "misc.images": "图片",
+        "misc.videos": "视频",
+        "misc.audio": "录音"
+    }
+}
