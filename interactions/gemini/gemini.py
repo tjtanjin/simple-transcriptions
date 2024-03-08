@@ -14,6 +14,7 @@ from interactions.utils import has_interaction_ongoing
 from services.cache_service import cache
 from services.gemini_service import GEMINI_API_KEY
 from services.gemini_service import get_gemini_result
+from services.message_service import end_conversation
 from services.message_service import send_message
 from services.message_service import send_transcript
 
